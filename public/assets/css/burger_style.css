@@ -1,0 +1,69 @@
+body {
+	background-image: url("../img/gplaypattern.png");
+	background-size:contain;
+}
+
+
+
+header {
+	text-align: center;
+	margin-bottom:40px;
+}
+
+h1 {
+	font-size:70px;
+	font-weight:bold;
+}
+
+.container {
+	text-align:center;
+	width:90%;
+}
+
+h2 {
+	font-size:2.0em;
+	font-weight:bold;
+	color:black;
+}
+ul {
+	padding:0;
+	list-style:none;
+}
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #FFE0B1;
+  border-radius:10px;
+  font-weight:bold;
+  font-size:1.1em;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  margin-bottom:20px;
+  
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.list {
+	background:#00A1B2;
+	min-height:450px;
+	list-style:none;
+	border: white solid 5px;
+	border-radius:10px;
+}
+
+.btn-warning {
+	background:#e58200;
+	font-weight:bold;
+}
+
+
